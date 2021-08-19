@@ -10,4 +10,4 @@ To Run this Project :-
 
 1.Clone Repository in your local pc.
 
-2.Go To Project 1 / Index.html
+2.Go To Gym Website / Index.html
